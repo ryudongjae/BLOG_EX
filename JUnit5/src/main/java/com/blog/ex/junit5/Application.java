@@ -1,9 +1,5 @@
-package com.blog.ex.builderpattern;
+package com.blog.ex.junit5;
 
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
