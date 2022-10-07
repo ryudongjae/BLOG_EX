@@ -1,5 +1,6 @@
 # BLOG_EX
 
+## 🛠 Tech
 * __JPA 양방향 매핑(무한 루프)__ : [블로그 보기](https://jarvics.tistory.com/87)
 * __JPA N + 1__ : [블로그 보기](https://jarvics.tistory.com/88)
 * __JPA Dirty Checking(더티체킹)__ : [블로그 보기](https://jarvics.tistory.com/89)
@@ -14,4 +15,15 @@
 * __[Design Pattern]GoF 디자인 패턴__ : [블로그 보기](https://jarvics.tistory.com/109)
 * __빅데이터 분석기사__ : [블로그 보기](https://jarvics.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B8%B0%EC%82%AC)
 
-* __생각정리__ : [블로그 보기]
+
+
+
+
+
+
+
+
+
+
+## 💁🏻‍♂️ 생각정리
+* __연비 좋은 엔지니어__ : [블로그 보기](https://jarvics.tistory.com/118)
